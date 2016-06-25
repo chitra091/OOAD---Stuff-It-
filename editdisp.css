@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 14, 2016, 1:15:41 AM
+    Author     : Chitra
+*/
+
+#div1 {
+    
+    width: 100%;
+    padding-left: 30%;
+}
+
+p {
+    font-size: 12px;
+    font-style: italic;
+}
+
+#p1 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: monospace;
+    
+}
+
+#h11 {
+    text-align: center;
+    font-size: 100px;
+    background-image: url('/StuffIt/img/back1.png'); 
+    color: #ccff33;
+}
+
+#a1, #a11{
+    float: right;
+    color:white;
+}
+
+#process_id {
+    width: 50%;
+    alignment-adjust: 30%;
+}
+
+#e1{
+    alignment-adjust: 30%;
+}

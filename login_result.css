@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 18, 2016, 11:55:59 PM
+    Author     : Chitra
+*/
+
+#h11 {
+    color: white;
+    background-color: green;
+    text-align: center;
+    font-size: 100px;
+    background-image: url('/StuffIt/img/back1.png'); 
+    color: #ccff33;
+    width:100%;
+}
+
+#a1, #a11{
+    float: right;
+    color: white;
+}

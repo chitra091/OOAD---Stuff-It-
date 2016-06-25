@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 13, 2016, 11:41:20 AM
+    Author     : Chitra
+*/
+
+#div1 {
+    width:300px;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#h22 {
+    color: white;
+    background-color: green;
+    text-align: center;
+    font-size: 100px;
+    background-image: url('/StuffIt/img/back1.png'); 
+    color: #ccff33;
+    width:100%;
+}
+
+#a1{
+    float: right;
+    color: white;
+}
